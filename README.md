@@ -63,14 +63,4 @@ Desenvolvedor de software e estudante de Engenharia de Computação, interessado
 ![Bash](https://img.shields.io/badge/Bash-333333?style=flat-square&logo=gnubash&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=FCC624)
 
----
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusskp&layout=compact&langs_count=8&theme=dracula"/>
-
-</div>
-
----
-
-<div align="center">
-
-</div>

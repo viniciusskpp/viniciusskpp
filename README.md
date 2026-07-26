@@ -9,9 +9,6 @@ Desenvolvedor de software e estudante de Engenharia de Computação, interessado
 <a href="https://www.linkedin.com/in/viniciusskp">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:viniciuscesarskp@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>
 
 </div>
 
@@ -21,7 +18,7 @@ Desenvolvedor de software e estudante de Engenharia de Computação, interessado
 
 * 🎓 Estudante de **Engenharia de Computação** no Centro Universitário Martha Falcão Wyden.
 * 💼 Atualmente, **Estagiário de Desenvolvimento de Software no Sidia Instituto de Ciência e Tecnologia**.
-* 💻 Experiência com desenvolvimento **Full Stack**, automação, APIs e pipelines de dados.
+* 💻 Experiência com desenvolvimento **Full Stack**, automação, APIs, ETL e pipelines de dados.
 * 🔐 Experiência anterior em **Segurança da Informação** na LG Electronics.
 * 🤖 Pesquisador bolsista **PIBIT**, trabalhando com aplicações de Inteligência Artificial em Cibersegurança.
 * 🌱 Atualmente aprofundando conhecimentos em **arquitetura de software, IA, DevOps e segurança de aplicações**.
@@ -42,53 +39,31 @@ Desenvolvedor de software e estudante de Engenharia de Computação, interessado
 ![FastAPI](https://img.shields.io/badge/FastAPI-333333?style=flat-square\&logo=fastapi\&logoColor=009688)
 ![Django](https://img.shields.io/badge/Django-333333?style=flat-square\&logo=django\&logoColor=092E20)
 
-### Automação, DevOps & Dados
+### Automação, ETL, DevOps & Cloud
 
 ![Docker](https://img.shields.io/badge/Docker-333333?style=flat-square\&logo=docker\&logoColor=2496ED)
 ![Jenkins](https://img.shields.io/badge/Jenkins-333333?style=flat-square\&logo=jenkins\&logoColor=D24939)
-![Git](https://img.shields.io/badge/Git-333333?style=flat-square\&logo=git\&logoColor=F05032)
+![AWS](https://img.shields.io/badge/AWS-333333?style=flat-square\&logo=amazonwebservices\&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-333333?style=flat-square\&logo=microsoftazure\&logoColor=0078D4)
+
+![ETL](https://img.shields.io/badge/ETL-333333?style=flat-square)
 ![Python](https://img.shields.io/badge/Automation-333333?style=flat-square\&logo=python\&logoColor=3776AB)
+
+### Testes & APIs
+
+![Postman](https://img.shields.io/badge/Postman-333333?style=flat-square\&logo=postman\&logoColor=FF6C37)
+![Insomnia](https://img.shields.io/badge/Insomnia-333333?style=flat-square\&logo=insomnia\&logoColor=4000BF)
+![Pytest](https://img.shields.io/badge/Pytest-333333?style=flat-square\&logo=pytest\&logoColor=0A9EDC)
 
 ### Segurança
 
-![OWASP](https://img.shields.io/badge/OWASP-333333?style=flat-square\&logo=owasp\&logoColor=FFFFFF)
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-333333?style=flat-square\&logo=owasp\&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square\&logo=linux\&logoColor=FCC624)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-333333?style=flat-square&logo=owasp&logoColor=FFFFFF)
+![Wireshark](https://img.shields.io/badge/Wireshark-333333?style=flat-square&logo=wireshark&logoColor=1679A7)
+![Nmap](https://img.shields.io/badge/Nmap-333333?style=flat-square)
+![Bash](https://img.shields.io/badge/Bash-333333?style=flat-square&logo=gnubash&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=FCC624)
 
 ---
-
-## Experiência
-
-**Sidia Instituto de Ciência e Tecnologia**
-`Estagiário de Desenvolvimento de Software · 2026 – Atualmente`
-
-Desenvolvimento de aplicações web, automações e pipelines de dados utilizando **React.js, Vue.js, FastAPI, Python, Docker e Jenkins**. Atuação também com integração de APIs, testes, debugging e evolução de sistemas existentes.
-
-**LG Electronics do Brasil**
-`Estagiário de Segurança da Informação · 2025 – 2026`
-
-Atuação com segurança corporativa, análise de riscos, automações em Python, desenvolvimento de sistemas internos e testes de segurança utilizando **OWASP ZAP**, apoiando a identificação e correção de vulnerabilidades.
-
-**BIC Brasil**
-`Jovem Aprendiz Administrativo e TI · 2023 – 2024`
-
-Experiência com suporte tecnológico, automações em Python, criação de relatórios e desenvolvimento de aplicações internas utilizando **Power Apps**.
-
----
-
-## Pesquisa
-
-🔬 **PIBIT — Cibersegurança e Inteligência Artificial**
-
-Pesquisa voltada à aplicação de Inteligência Artificial em Cibersegurança, com foco em **detecção de fraudes, treinamento e experimentação de modelos utilizando Ollama**.
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusskp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusskp&layout=compact&langs_count=8&theme=dracula"/>
 
@@ -97,7 +72,5 @@ Pesquisa voltada à aplicação de Inteligência Artificial em Cibersegurança, 
 ---
 
 <div align="center">
-
-*"Building software, automating processes and exploring the intersection between technology, security and artificial intelligence."*
 
 </div>
